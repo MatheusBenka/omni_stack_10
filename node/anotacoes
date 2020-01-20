@@ -1,0 +1,5 @@
+app.get('rota',req, resp);
+    req.query == parametros de query ;
+
+app.put('rota/:id'req,resp);
+    req.params == route params, no caso o id da rota/:id
